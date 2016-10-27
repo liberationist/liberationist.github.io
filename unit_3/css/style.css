@@ -1,0 +1,53 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: Modelica, sans-serif;
+	font-size: 20px;
+	color: #222222;	
+	line-height: 1.3;
+}
+
+header {
+	background-color: #000000;
+	color: #24A9A0;
+	padding: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: #24A9A0;
+}
+
+nav a {
+	margin-right: 10px;
+	float: right;
+}
+
+img {
+	width: 100%;
+}
+
+main {
+	padding: 20px;
+}
+
+section {
+}
+
+main {
+	}
+
+ul, ol {
+	margin-left: 10px;
+	padding-left: 22px
+	padding-bottom: 10px;
+
+}
+
+#slogan {
+	font-style: italic;
+	color: #eeeeee;
+}
