@@ -13,7 +13,12 @@ body {
 header {
 	background-color: #000000;
 	color: #24A9A0;
-	padding: 20px;
+	padding: 30px;
+}
+
+#slogan {
+	font-style: italic;
+	color: #eeeeee;
 }
 
 a {
@@ -22,10 +27,15 @@ a {
 }
 
 nav a {
-	margin-right: 10px;
+	margin-right: 20px;
 	float: right;
+	height: auto;
 }
 
+
+header img {
+	width: 19%;
+}
 img {
 	width: 100%;
 }
@@ -35,9 +45,17 @@ main {
 }
 
 section {
+	background-color: #000000;
+}
+
+h2 {
+	margin-left: 10px;
+	color: #b2388d;
+	padding: 20px;
 }
 
 main {
+	background: #eeeeee;
 	}
 
 ul, ol {
@@ -47,7 +65,7 @@ ul, ol {
 
 }
 
-#slogan {
-	font-style: italic;
-	color: #eeeeee;
+main a {
+
 }
+
