@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Montserrat');
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	color: #222222;	
+	line-height: 1.3;
+}
+
+header {
+	font-family: 'Montserrat', sans-serif;
+	text-transform: capitalize;
+	background-color: #FFED74;
+	color: #24A9A0;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: #24A9A0;
+}
+
+header img {
+	width: 19%;
+}
+
+img {
+	width: 100%;
+}
+
+nav {
+	margin-right: 20px;
+	float: right;
+	height: auto;
+	background-color: #E8C66A;
+}
+
+.one {
+	background: url('../images/launch2.jpeg'); 
+	display: block;
+	height: 650px;
+    border: 1px black solid;
+	padding: 20px;
+}
+
+.about {
+	text-align: center;
+	background-color: #000000;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	font-family: 'Fjalla', sans-serif;
+	font-weight: normal;
+	text-transform: capitalize;
+	text-align: center;
+	font-size: 72px;
+	margin-left: 10px;
+	color: #b2388d;
+	padding: 20px;
+	padding-left: 0px;
+}
+
+h2 {
+	font-family: 'Fjalla', sans-serif;
+	font-weight: normal;
+	text-transform: capitalize;
+	font-size: 60px;
+	margin-left: 10px;
+	color: #b2388d;
+	padding: 20px;
+	padding-left: 0px;
+}
+
+
+.programs {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	background: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+	}
+
+ul, ol {
+	margin-left: 10px;
+	padding-left: 22px
+	padding-bottom: 10px;
+
+}
+
+main a {
+
+}
+
+footer {
+	background-color: #FF9573;
+	border: 1px black solid;
+	padding: 20px;
+}
+
