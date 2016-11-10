@@ -46,11 +46,14 @@ main {
 	padding: 20px;
 }
 
-section {
-	background-color: #eeeeee; 
+#intro {
+	background: url('../images/launch2.jpeg'); 
+	display: block;
+    margin: 0 auto;
+    height: 600px;
 }
 
-about-section {
+#about {
 
 }
 
