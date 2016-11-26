@@ -41,6 +41,8 @@ nav {
 
 .one {
 	background: url('../images/launch2.jpeg'); 
+	background-size: cover;
+    background-repeat: no-repeat;
 	display: block;
 	height: 650px;
 	padding: 20px;
@@ -68,7 +70,6 @@ h2 {
 	font-weight: normal;
 	text-transform: capitalize;
 	font-size: 60px;
-	margin-left: 10px;
 	color: #b2388d;
 	padding: 20px;
 	padding-left: 0px;
@@ -124,6 +125,8 @@ section > a {
 	padding: 20px;
 	float: left;
 	width: 30%;
+	border: none;
+    border-radius: 40px 10px;
 }
 
 #middle {
